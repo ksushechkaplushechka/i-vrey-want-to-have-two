@@ -1,0 +1,15 @@
+C:\Users\porfi\source\repos\практичекая 7\bin\Debug\net6.0\практичекая 7.exe
+C:\Users\porfi\source\repos\практичекая 7\bin\Debug\net6.0\практичекая 7.deps.json
+C:\Users\porfi\source\repos\практичекая 7\bin\Debug\net6.0\практичекая 7.runtimeconfig.json
+C:\Users\porfi\source\repos\практичекая 7\bin\Debug\net6.0\практичекая 7.dll
+C:\Users\porfi\source\repos\практичекая 7\bin\Debug\net6.0\практичекая 7.pdb
+C:\Users\porfi\source\repos\практичекая 7\obj\Debug\net6.0\практичекая 7.csproj.AssemblyReference.cache
+C:\Users\porfi\source\repos\практичекая 7\obj\Debug\net6.0\практичекая 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porfi\source\repos\практичекая 7\obj\Debug\net6.0\практичекая 7.AssemblyInfoInputs.cache
+C:\Users\porfi\source\repos\практичекая 7\obj\Debug\net6.0\практичекая 7.AssemblyInfo.cs
+C:\Users\porfi\source\repos\практичекая 7\obj\Debug\net6.0\практичекая 7.csproj.CoreCompileInputs.cache
+C:\Users\porfi\source\repos\практичекая 7\obj\Debug\net6.0\практичекая 7.dll
+C:\Users\porfi\source\repos\практичекая 7\obj\Debug\net6.0\refint\практичекая 7.dll
+C:\Users\porfi\source\repos\практичекая 7\obj\Debug\net6.0\практичекая 7.pdb
+C:\Users\porfi\source\repos\практичекая 7\obj\Debug\net6.0\практичекая 7.genruntimeconfig.cache
+C:\Users\porfi\source\repos\практичекая 7\obj\Debug\net6.0\ref\практичекая 7.dll
